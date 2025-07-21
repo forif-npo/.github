@@ -1,5 +1,5 @@
 ## FORIF 👋
-Hanyang University's largest academic central programming club
+Hanyang University's biggest academic central programming club
 <!--
 
 **Here are some ideas to get you started:**
